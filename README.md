@@ -1,3 +1,8 @@
+- 
+- 
+- 
+- ![](https://komarev.com/ghpvc/?username=Neelharia97)
+- 
 - 👋 Hi, I’m @Neelharia97
 - 👀 I’m interested in Software and Data Engineering and always looking to collaborate on projects
 - 🌱 I’m currently learning Big Data and Data Analytics
