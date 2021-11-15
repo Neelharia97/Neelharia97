@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Neelharia97
 - 👀 I’m interested in Software and Data Engineering and always looking to collaborate on projects
 - 🌱 I’m currently learning Big Data and Data Analytics
-- 💞️ I’m looking to collaborate on projects related to Data Engineering, I am also open to full-time opportunities in the field of Software & Data Engineering
+- 💞️ Currently working for Facebook on contract as a Software Engineer @ Portal.
 - 📫 You can reach on LinkedIn (https://www.linkedin.com/in/neelkharia/) and my email nharia@stevens.edu
 
 <!---
